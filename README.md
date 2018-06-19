@@ -1,0 +1,2 @@
+# SofaD
+SOFA框架初步使用，按照SOFARPC和SOFABoot两种方式实现应用发布和引用
